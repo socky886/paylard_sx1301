@@ -1,0 +1,9 @@
+# FIXED
+
+drv/SN65LVDS31PW.obj: ../drv/SN65LVDS31PW.c
+drv/SN65LVDS31PW.obj: ../drv/SN65LVDS31PW.h
+
+../drv/SN65LVDS31PW.c:
+
+../drv/SN65LVDS31PW.h:
+

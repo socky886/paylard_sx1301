@@ -1,0 +1,135 @@
+# FIXED
+
+source/system.obj: ../source/system.c
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/system.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_system.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/sys_common.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/hal_stdtypes.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_gio.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_flash.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_tcram.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/sys_selftest.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_pbist.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_stc.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_efc.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/sys_core.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/sys_vim.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_vim.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/adc.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_adc.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/can.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_can.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/mibspi.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_mibspi.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/het.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_het.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/string.h
+source/system.obj: C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/xlocale/_string.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/htu.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_htu.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/esm.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_esm.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/sys_pcr.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_pcr.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/pinmux.h
+source/system.obj: D:/reter\ sx1301/TC_TQ_TX/include/reg_pinmux.h
+
+../source/system.c:
+
+D:/reter\ sx1301/TC_TQ_TX/include/system.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_system.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/sys_common.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/hal_stdtypes.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdbool.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_gio.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_flash.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_tcram.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/sys_selftest.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_pbist.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_stc.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_efc.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/sys_core.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/sys_vim.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_vim.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/adc.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_adc.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/can.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_can.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/mibspi.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_mibspi.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/het.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_het.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/string.h:
+
+C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/xlocale/_string.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/htu.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_htu.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/esm.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_esm.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/sys_pcr.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_pcr.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/pinmux.h:
+
+D:/reter\ sx1301/TC_TQ_TX/include/reg_pinmux.h:
+

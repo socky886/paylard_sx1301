@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="10.1.0"/>
+	<deviceVariant value="Cortex R.TMS570LS1224"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="be32"/>
+	<codegenToolVersion value="20.2.2.LTS"/>
+	<isElfFormat value="true"/>
+	<rts value="rtsv7R4_T_be_v3D16_eabi.lib"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=com.ti.common.project.core.emptyProjectWithMainTemplate"/>
+	<filesToOpen value="main.c"/>
+	<isTargetManual value="false"/>
+	<sourceLookupPath value=""/>
+	<connection value="common/targetdb/connections/TIXDS2XXUSB_Connection.xml"/>
+</projectOptions>
